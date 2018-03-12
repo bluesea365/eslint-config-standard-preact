@@ -11,9 +11,9 @@
     "url": "https://github.com/zouhir/eslint-config-standard-preact/issues"
   },
   "dependencies": {
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^8.2.2",
     "eslint": "^4.0.0",
-    "eslint-config-standard-jsx": "^4.0.2",
+    "eslint-config-standard-jsx": "^5.0.0",
     "eslint-plugin-react": "^7.1.0"
   },
   "devDependencies": {
