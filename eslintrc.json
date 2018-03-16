@@ -23,6 +23,7 @@
     }
   },
   "rules": {
+    "import/no-webpack-loader-syntax": 0,
     "react/jsx-no-bind": ["error", {
       "allowArrowFunctions": true,
       "allowBind": false,
